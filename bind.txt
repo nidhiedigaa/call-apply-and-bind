@@ -1,0 +1,5 @@
+syntax=> bind(object,arg1,arg2,arg3..........argn)
+
+1.first parameter of bind is going to be an object that function's this keyword will point to
+2.rest of the parameters are going to be the values that will sepcify the parameters of the function 
+3.bind will not invoke/call the function it will return the function which we can store and call it later 

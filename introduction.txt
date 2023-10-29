@@ -1,0 +1,3 @@
+call, apply and bind => call, apply and bind are the important methods of function in javascript
+1.they are used to change the context of the this keyword in function
+2.by using call, apply and bind we can control which object function's this keyword should point to

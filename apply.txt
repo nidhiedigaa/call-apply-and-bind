@@ -1,0 +1,4 @@
+syntax=> apply(object,[arg1,arg2,arg3.........argn])
+
+1.first parameter of apply method will be an object that function's this keyword will point to
+2.second parameter will be an array where each item will be considered as the parameter of the function that we are calling

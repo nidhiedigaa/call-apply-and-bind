@@ -1,0 +1,4 @@
+syntax: call(object,arg1,arg2,arg3..........argn)
+
+1.first parameter of call will be the object, function's this keyword will point to the object we have specfied in call method
+2.rest of the parameters are the values that will specify the arguments of the function that we are calling
